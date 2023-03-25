@@ -1,1 +1,9 @@
-# Lab2Web
+# Lab2Web![01  localhost](https://user-images.githubusercontent.com/113694802/227687176-8b70123a-0f64-4e5d-803a-bd891c643861.jpg)
+![02  lab2_php_dasar](https://user-images.githubusercontent.com/113694802/227687193-2967df20-9a0e-4917-930e-ed4b61260a1a.jpg)
+![03  php_dasar](https://user-images.githubusercontent.com/113694802/227687204-a0755e69-41fd-4069-94d8-bf4ee3548b36.jpg)
+![04  php_dasar_Variable](https://user-images.githubusercontent.com/113694802/227687210-52e98af9-d7ad-4f98-8b09-724de24ded18.jpg)
+![05  file_latihan2](https://user-images.githubusercontent.com/113694802/227687224-bbd3c367-40a5-40fe-a977-e88939a18370.jpg)
+![06  latihan2_Post](https://user-images.githubusercontent.com/113694802/227687238-9d0afd47-2e62-4e2a-9de6-f6e9d6cc3500.jpg)
+![07  latihan2_Looping1](https://user-images.githubusercontent.com/113694802/227687257-8cf0227f-6396-4700-bb8a-610d62f71c64.jpg)
+![07  latihan2_Looping2](https://user-images.githubusercontent.com/113694802/227687280-9218346c-0783-4431-94a9-c4a62087a5ca.jpg)
+![08  latihan2_Looping2_float](https://user-images.githubusercontent.com/113694802/227687286-64aa0218-9ff8-4ba0-9480-91c79658a981.jpg)
