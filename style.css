@@ -1,0 +1,17 @@
+.satu {
+  width: 25%;
+}
+
+div {
+  float: left;
+  height: 50%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: rgb(252, 252, 252);
+  margin: 2px auto;
+  font-family: Arial, sans-serif;
+  text-align: justify;
+}
+.akhir {
+  width: 25%;
+  clear: both;
+}
